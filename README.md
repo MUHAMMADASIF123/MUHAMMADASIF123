@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MUHAMMAD ASIF
 - 👀 I’m interested in Full stack Development MERN STACK
-- 🌱 I’m currently learning APP DEVELOPMENT
+- 🌱 I’m currently learning WEB APP DEVELOPMENT
 - 💞️ I’m looking to collaborate on fIVERR AND LOCAL MARKETPLACES
 - 📫 How to reach me EMAIL : asifalionlinwork@gmail.com
 
